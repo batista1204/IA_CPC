@@ -1,4 +1,4 @@
-# Participantes do projeto: Breno Batista, Hugo Batista Aguiar, Gabriel Bortoloti, João Victor da Silva, Lucas Furco Righetto
+# Participantes do projeto: Breno Batista Silva, Hugo Batista Aguiar, Gabriel Bortoloti, João Victor da Silva, Lucas Furco Righetto
 
 # IA – Tradução entre CPC e Linguagem Natural
 
