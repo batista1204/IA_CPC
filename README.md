@@ -1,4 +1,6 @@
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/48283c57-2b78-4d89-b781-2e9106222ed3" /># IA – Tradução entre CPC e Linguagem Natural
+# Participantes do projeto: Breno Batista, Hugo Batista Aguiar, Gabriel Bortoloti, João Victor da Silva, Lucas Furco Righetto
+
+# IA – Tradução entre CPC e Linguagem Natural
 
 Este projeto tem como objetivo criar um agente de IA capaz de *traduzir artigos e trechos do Código de Processo Civil (CPC)* para uma linguagem natural mais clara e simples, além de fazer o caminho inverso: *pegar frases comuns do dia a dia e transformá-las em uma redação jurídica baseada no CPC*.
 
@@ -139,5 +141,5 @@ Art. 300 do CPC
 
 4. Execute:
 
-Demonstração do projeto funcionando
+# Demonstração do projeto funcionando
 Link do video: https://youtu.be/ScIb9OC5bYg
