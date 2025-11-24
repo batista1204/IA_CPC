@@ -1,0 +1,5 @@
+
+{
+  "name": "Agente Lógico Inteligente",
+  "description": "Um agente inteligente que converte frases da linguagem natural (português) para fórmulas da Lógica Proposicional (CPC) e vice-versa, utilizando a API Gemini do Google."
+}
