@@ -1,4 +1,4 @@
-# IA – Tradução entre CPC e Linguagem Natural
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/48283c57-2b78-4d89-b781-2e9106222ed3" /># IA – Tradução entre CPC e Linguagem Natural
 
 Este projeto tem como objetivo criar um agente de IA capaz de *traduzir artigos e trechos do Código de Processo Civil (CPC)* para uma linguagem natural mais clara e simples, além de fazer o caminho inverso: *pegar frases comuns do dia a dia e transformá-las em uma redação jurídica baseada no CPC*.
 
@@ -28,6 +28,7 @@ A arquitetura foi pensada para ser fácil de entender e manter:
    Mostra o texto traduzido + avisos quando algo não estiver muito claro.
 
 ### ⚙️ Fluxo simplificado
+<img width="1024" height="1536" alt="517918656-0cee3c50-fca7-4da3-ae6f-ae66878097e0" src="https://github.com/user-attachments/assets/a1e93cb3-f4de-4dcc-a36c-f767ff92d919" />
 
 
 ---
@@ -137,3 +138,6 @@ Art. 300 do CPC
 3. Configure sua chave de API.
 
 4. Execute:
+
+Demonstração do projeto funcionando
+Link do video: https://youtu.be/ScIb9OC5bYg
